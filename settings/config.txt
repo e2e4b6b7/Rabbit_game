@@ -1,0 +1,11 @@
+3
+settings/level_1.txt
+settings/level_2.txt
+settings/level_3.txt
+2
+images/Google.png
+Google
+37 38 39
+images/Yandex.png
+Yandex
+65 87 68
